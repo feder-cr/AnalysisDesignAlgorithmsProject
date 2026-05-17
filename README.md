@@ -1,4 +1,6 @@
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Elia-0A66C2?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federico-elia-5199951b6)
+
 University project of the course "ANALISI E PROGETTAZIONE DI ALGORITMI" of the computer science university of Genoa. The course was divided into two modules:
 
 ## Module 1: Techniques, Graphs and NP-Completeness
